@@ -15,10 +15,10 @@
 * main.py - файл для запуска программы
 
 ---
-* Проверка
-![pht1.jpg](pht1.jpg)
-![pht2.jpg](pht2.jpg)
-![pht3.jpg](pht3.jpg)
-![pht4.jpg](pht4.jpg)
+
+![image-1](image.png)
+![image-2](image-1.png)
+![image-3](image-2.png)
+![image-4](image-3.png)
 
 ### ### [Мой GitHub](https://github.com/AlexLada)
