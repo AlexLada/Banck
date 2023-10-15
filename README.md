@@ -16,9 +16,9 @@
 
 ---
 * Проверка
-![1.jpg](1.jpg)
-![2.jpg](2.jpg)
-![3.jpg](3.jpg)
-![4.jpg](4.jpg)
+![pht1.jpg](1.jpg)
+![pht2.jpg](2.jpg)
+![pht3.jpg](3.jpg)
+![pht4.jpg](4.jpg)
 
 ### ### [Мой GitHub](https://github.com/AlexLada)
